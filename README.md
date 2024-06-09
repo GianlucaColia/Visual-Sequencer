@@ -27,41 +27,41 @@
 
 ### Parameters
 
-###### Grid & Resolution
+##### Grid & Resolution
 
 - Grid
 - Resolution
 
-###### Dynamic Grid
+##### Dynamic Grid
 
 - Speed
 - Displacement 
 - Randomize Grid
 
-###### Animation Mode
+##### Animation Mode
 
 - Global Image
 - Interpolation
 
-###### Transformation
+##### Transformation
 
 - Translate
 - Rotate
 - Scale
 
-###### Additional Effects
+##### Additional Effects
 
 - Invert Color
 
 ### Export
 
-###### Transparency
+##### Transparency
 
 - Alpha
 - Green Screen
 - Invert Alpha
 
-###### Output
+##### Output
 
 - [File Name](#file-name)
 - [Record](#record)
