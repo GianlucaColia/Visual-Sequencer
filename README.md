@@ -13,6 +13,7 @@
   <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" style="width: 50%;" img>
   <img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" style="width: 50%;" img>
 </div>
+
 ## Installation
 
 1. Download the folder 
