@@ -1,5 +1,5 @@
 # Visual Sequencer
-[![Download](https://img.shields.io/badge/download-v1.0.0-blue)](https://github.com/GianlucaColia/Visual-Sequencer.git)
+[![Download](https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Download%20Button.png)](https://github.com/GianlucaColia/Visual-Sequencer.git)
 
 ## Presentation
 
