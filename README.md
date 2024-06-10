@@ -1,7 +1,7 @@
 # Visual Sequencer 
 <a href="https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.6.0/Visual.Sequencer.v-1.6.0.zip"><img src="Download Button.png" alt="Download"></a>
 ## Presentation
-![Snapshot 2](https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%202.png){:width="300px"}
+<img alt="Snapshot 2" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%202.png" width="300px" img>
 ![Content 1](https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png){:height="300px"}
 
 <video width="720" height="720" controls>
