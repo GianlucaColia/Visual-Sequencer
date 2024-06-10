@@ -3,13 +3,14 @@
 ## Presentation
   <img alt="Snapshot 2" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%202.png" width="400px" img>
   <img alt="Snapshot 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%201.png" width="400px" img>
-  
-<div style="display: flex;">
-  <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" style="width: 50%;" img>
+
   <video width="720" height="720" controls>
     <source src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Video%20Teaser%20visual%20sequencer.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+  
+<div style="display: flex;">
+  <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" style="width: 50%;" img>
   <img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" style="width: 50%;" img>
 </div>
 ## Installation
