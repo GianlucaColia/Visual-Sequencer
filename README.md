@@ -25,7 +25,7 @@
 5. Open [Visual Sequencer](#Visual-Sequencer) and enjoy!
 
 ## Documentation 
-*Visual Sequencer* was developed using [TouchDesigner](https://derivative.ca/) and *Python* visual scripting nodes.
+*Visual Sequencer* was developed using [TouchDesigner](https://derivative.ca/) visual scripting nodes and *Python*.
 
 ### User Interface Sections
 
