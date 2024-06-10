@@ -10,8 +10,8 @@
   </video>
 
 <div style="display: inline-block;">
-  <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" style="width: 50%;" img>
-  <img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" style="width: 50%;" img>
+  <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" width="400px" img>
+  <img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" width="400px" img>
 </div>
 
 
