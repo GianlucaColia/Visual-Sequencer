@@ -9,10 +9,12 @@
     Your browser does not support the video tag.
   </video>
   
-<div style="display: flex;">
+<table>
+  <tr>
   <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" style="width: 50%;" img>
   <img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" style="width: 50%;" img>
-</div>
+</tr>
+</table>
 
 ## Installation
 
