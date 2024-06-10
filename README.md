@@ -1,6 +1,5 @@
 # Visual Sequencer 
 <a href="https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.6.0/Visual.Sequencer.v-1.6.0.zip"><img src="Download Button.png" alt="Download"></a>
-
 ## Presentation
 
 ## Installation
