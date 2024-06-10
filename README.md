@@ -9,7 +9,7 @@
 2. Unzip the folder
 3. Install [TouchPlayer](https://derivative.ca/download) (part of TouchDesigner)
 4. Install Brutt Grotesque TEST font (trial version) included in the folder or download the full version from [Brutt Grotesque Font](https://bureaubrut.com/en/product/brut-grotesque/)
-5. Open [Visual Sequencer](#Visual-Sequencer) and enjoy
+5. Open [Visual Sequencer](#Visual-Sequencer) and enjoy!
 
 ## Documentation 
 *Visual Sequencer* was developed using [TouchDesigner](https://derivative.ca/) and *Python* visual scripting nodes.
