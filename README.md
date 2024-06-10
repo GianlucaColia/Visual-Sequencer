@@ -2,15 +2,15 @@
 <a href="https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.6.0/Visual.Sequencer.v-1.6.0.zip"><img src="Download Button.png" alt="Download"></a>
 ## Presentation
 <img alt="Snapshot 2" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%202.png" width="300px" img>
-![Content 1](https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png){:height="300px"}
+<img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" width="300px" img>
 
 <video width="720" height="720" controls>
   <source src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Video%20Teaser%20visual%20sequencer.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-![Content 3](https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png){:height="300px"}
-![Snapshot 1](https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%201.png){:height="300px"}
+<img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" width="300px" img>
+<img alt="Snapshot 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%201.png" width="300px" img>
 ## Installation
 
 1. Download the folder 
