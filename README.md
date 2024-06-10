@@ -6,7 +6,7 @@
   <img alt="Snapshot 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%201.png" width="400px" img>
 </div>
 
-  <video width="720" height="720" controls>
+  <video width="400" controls>
     <source src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Video%20Teaser%20visual%20sequencer.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
