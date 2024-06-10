@@ -1,5 +1,5 @@
-# Visual Sequencer 
-[![Download](https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Download%20Button.png)](https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.6.0/Visual.Sequencer.zip)
+# Visual Sequencer <a href="https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.0.0/VisualSequencer.zip"><img src="https://github.com/GianlucaColia/Visual-Sequencer/raw/main/img/download-button.png" alt="Download" style="vertical-align: middle; margin-left: 10px;"></a>
+
 
 ## Presentation
 
