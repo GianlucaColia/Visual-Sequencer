@@ -118,6 +118,6 @@ Press "shift" key + "p" to close and open the user interface.
 
 ## Credits
 
-The entire project was born as *open source* to reflect the values of James Wallbank's [Low Tech Manifesto](http://lowtech.org/projects/n5m3/), therefore anyone can access the code by opening *Visual Sequencer* within *TouchDesigner*.
+The entire project was born as *open source* to reflect the values of James Wallbank's [Low Tech Manifesto](http://lowtech.org/projects/n5m3/), therefore anyone can access the code by opening [Visual Sequencer](#Visual Sequencer) within [TouchDesigner](https://derivative.ca/).
 
 ###### Designed & developed by Gianluca Colia
