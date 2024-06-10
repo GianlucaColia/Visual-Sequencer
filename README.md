@@ -8,13 +8,12 @@
     <source src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Video%20Teaser%20visual%20sequencer.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  
-<table>
-  <tr>
+
+<div style="display: inline-block;">
   <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" style="width: 50%;" img>
   <img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" style="width: 50%;" img>
-</tr>
-</table>
+</div>
+
 
 ## Installation
 
