@@ -1,7 +1,13 @@
 # Visual Sequencer 
 <a href="https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.6.0/Visual.Sequencer.v-1.6.0.zip"><img src="Download Button.png" alt="Download"></a>
 ## Presentation
-[![Watch the video](https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%202.png)](https://www.youtube.com/watch?v=NpEO18EclSs)
+[![Watch the video](https://img.youtube.com/vi/NpEO18EclSs/0.jpg)](https://www.youtube.com/watch?v=NpEO18EclSs)
+
+<a href="https://www.youtube.com/watch?v=NpEO18EclSs">
+    <img src="https://img.youtube.com/vi/NpEO18EclSs/0.jpg" alt="Watch the video" width="400">
+</a>
+
+To get an idea of ​​what is possible with the Visual Sequencer here is a short teaser video made by the software, watch the video on YouTube.
 <div style="display: flex;">
   <img alt="Snapshot 2" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%202.png" width="400px" img>
   <img alt="Snapshot 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%201.png" width="400px" img>
