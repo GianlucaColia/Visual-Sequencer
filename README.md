@@ -13,6 +13,7 @@ To get an idea of what is possible with the Visual Sequencer, here is a short te
   <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" width="400px" img>
   <img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" width="400px" img>
 </div>
+
 ## Installation
 
 1. Download the folder 
