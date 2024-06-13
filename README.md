@@ -1,8 +1,6 @@
 # Visual Sequencer 
 <a href="https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.6.0/Visual.Sequencer.v-1.6.0.zip"><img src="Download Button.png" alt="Download"></a>
 ## Presentation
-[![Watch the video](https://img.youtube.com/vi/NpEO18EclSs/0.jpg)](https://www.youtube.com/watch?v=NpEO18EclSs)
-
 <a href="https://www.youtube.com/watch?v=NpEO18EclSs">
     <img src="https://img.youtube.com/vi/NpEO18EclSs/0.jpg" alt="Watch the video" width="400">
 </a>
