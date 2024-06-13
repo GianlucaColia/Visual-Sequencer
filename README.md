@@ -1,17 +1,16 @@
 # Visual Sequencer 
 <a href="https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.6.0/Visual.Sequencer.v-1.6.0.zip"><img src="Download Button.png" alt="Download"></a>
 ## Presentation
-
-<div style="display: inline-block;">
-  <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" width="400px" img>
-  <img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" width="400px" img>
-</div>
-
+[![Watch the video](https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%202.png)](https://www.youtube.com/watch?v=NpEO18EclSs)
 <div style="display: flex;">
   <img alt="Snapshot 2" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%202.png" width="400px" img>
   <img alt="Snapshot 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Snapshot%201.png" width="400px" img>
 </div>
 
+<div style="display: inline-block;">
+  <img alt="Content 1" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%201.png" width="400px" img>
+  <img alt="Content 3" src="https://github.com/GianlucaColia/Visual-Sequencer/blob/main/Trademark%20contents/Contenuto%203.png" width="400px" img>
+</div>
 ## Installation
 
 1. Download the folder 
