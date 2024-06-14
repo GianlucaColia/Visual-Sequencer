@@ -1,5 +1,5 @@
 # Visual Sequencer 
-<a href="https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.6.0/Visual.Sequencer.v-1.6.0.zip"><img src="Download Button.png" alt="Download"></a>
+<a href="https://github.com/GianlucaColia/Visual-Sequencer/releases/download/v1.6.0/Visual_Sequencer.tox"><img src="Download Button.png" alt="Download"></a>
 ## Presentation
 To get an idea of what is possible with the Visual Sequencer, here is a short teaser video made by the software.
 [Watch the video on YouTube](https://www.youtube.com/watch?v=NpEO18EclSs).
