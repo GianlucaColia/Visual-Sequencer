@@ -70,8 +70,8 @@ To get an idea of what is possible with the Visual Sequencer, here is a short te
 ##### Transparency
 
 - Alpha
-- Green Screen
 - Invert Alpha
+- Background color
 
 ##### Output
 
